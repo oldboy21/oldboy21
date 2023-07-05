@@ -1,5 +1,5 @@
 <h1 align="center">Ciao :call_me_hand:, I'm Vincenzo</h1>
-<h3 align="center">Mostly Ducati driver but also Red Team Operator</h3>
+<h3 align="center">Most of the time Ducati driver but also Red Team Operator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oldboy21&label=Profile%20views&color=0e75b6&style=flat" alt="oldboy21" /> </p>
 
